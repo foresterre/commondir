@@ -1,0 +1,13 @@
+[package]
+name = "commondir"
+authors = ["Martijn Gribnau <garm@ilumeo.com>"]
+license = "Apache-2.0 OR MIT"
+description = "Find the common root directory of a set of paths"
+categories = ["filesystem"]
+keywords = ["common", "directory", "path", "root"]
+version = "1.0.0"
+edition = "2021"
+rust-version = "1.60"
+
+[dependencies]
+thiserror = "1"
