@@ -1,8 +1,12 @@
 # Changelog
 
-## [Unreleased] 
+## Unreleased
 
-[Unreleased]: https://github.com/foresterre/rust-template
+## 1.0.0
+
+### Added
+
+- Find the common directory of a set of paths
 
 <!-- Example:
 
